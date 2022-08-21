@@ -11,3 +11,6 @@ minesweeper made in sdl. It is unfinished and im working on [something else](htt
 
 ## screenshots:
 ![screen 1](screen.png)
+
+## installation
+you will have to compile it youself. I use g++ on arch but, you will have to use visual studio or minGW on windows. I only used SDL2, SDL_ttf and SDL2_image so it should be doable.
